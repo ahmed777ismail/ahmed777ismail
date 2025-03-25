@@ -51,13 +51,3 @@
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AhmedIsmail4865/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ismail-722048242)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01118962513)
-
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript  :"D
-
-```javascript
- Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐓'].sort())
-
- [ '🐓', '🐣', '🐥', '🥚' ]
-
-
