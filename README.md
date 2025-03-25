@@ -43,7 +43,10 @@
 ![Notion](https://img.shields.io/badge/-Notion-fff?style=flat-square&logo=notion&logoColor=000)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed777ismail&show_icons=true&locale=en&layout=compact" alt="ahmed777ismail" /></p>
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed777ismail&" alt="ahmed777ismail" /></p>
 
 ### 🔗 Contact Me:
