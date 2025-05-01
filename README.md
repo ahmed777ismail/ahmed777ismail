@@ -78,10 +78,6 @@ Hi! I'm **Ahmed Ismail** from **Egypt**. I'm a **full-stack developer** speciali
 </table>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed777ismail&" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🔗 Contact Me
