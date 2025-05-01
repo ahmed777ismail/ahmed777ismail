@@ -45,19 +45,38 @@ Hi! I'm **Ahmed Ismail** from **Egypt**. I'm a **full-stack developer** speciali
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed777ismail&theme=2077)
+<table align="center">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed777ismail&theme=2077" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed777ismail&theme=2077" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed777ismail&theme=2077" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed777ismail&theme=2077" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed777ismail&theme=2077&utcOffset=8" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed777ismail" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed777ismail&show_icons=true&locale=en&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed777ismail&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed777ismail&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed777ismail&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed777ismail&theme=2077&utcOffset=8)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed777ismail&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed777ismail&" alt="GitHub Streak" />
