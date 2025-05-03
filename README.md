@@ -59,7 +59,7 @@ Hi! I'm **Ahmed Ismail** from **Egypt**. I'm a **full-stack developer** speciali
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed777ismail\&theme=2077\&utcOffset=8)
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed777ismail&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
 
