@@ -65,7 +65,12 @@ Hi! I'm **Ahmed Ismail** from **Egypt**. I'm a **full-stack developer** speciali
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed777ismail&theme=bear&hide_border=false)<br/>
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmed777ismail&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
+
+
 
 ## 🔗 Contact Me
 
