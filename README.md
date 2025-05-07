@@ -49,21 +49,17 @@ Hi! I'm **Ahmed Ismail** from **Egypt**. I'm a **full-stack developer** speciali
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed777ismail\&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed777ismail&theme=2077)
 
-![](https://github-readme-stats.vercel.app/api?username=ahmed777ismail&theme=bear&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed777ismail&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed777ismail&theme=2077" />
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed777ismail\&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed777ismail\&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed777ismail\&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed777ismail\&theme=2077\&utcOffset=8)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed777ismail&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed777ismail&theme=bear&hide_border=false)<br/>
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed777ismail&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed777ismail&theme=2077&utcOffset=8" />
+</p>
 
 
 ### ✍️ Random Dev Quote
