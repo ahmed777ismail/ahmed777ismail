@@ -61,6 +61,8 @@ Hi! I'm **Ahmed Ismail** from **Egypt**. I'm a **full-stack developer** speciali
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed777ismail&theme=2077&utcOffset=8" />
 </p>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed777ismail&theme=bear&hide_border=false)<br/>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
