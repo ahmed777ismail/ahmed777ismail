@@ -20,9 +20,9 @@ Hi! I'm **Ahmed Ismail** from **Egypt**. I'm a **full-stack developer** speciali
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square\&logo=Bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-15b4c1?style=flat-square\&logo=tailwindcss\&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square\&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square\&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2e72bc?style=flat-square\&logo=typescript\&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 
 ### Backend Technologies:
 
