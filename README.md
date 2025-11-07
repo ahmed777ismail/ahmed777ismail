@@ -22,16 +22,6 @@ Git • GitHub
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ahmed777ismail&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed777ismail&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed777ismail&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
----
-
 ## 🔥 GitHub Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ahmed777ismail&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=70A5FD&currStreakLabel=70A5FD&hide_border=true)](https://git.io/streak-stats)
