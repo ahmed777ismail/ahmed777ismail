@@ -34,7 +34,8 @@ Git • GitHub
 
 ## 🔥 GitHub Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ahmed777ismail&theme=tokyo-night&hide_border=true&area=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmed777ismail&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=70A5FD&currStreakLabel=70A5FD&hide_border=true)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=ahmed777ismail&style=for-the-badge&color=blueviolet)
 
 
