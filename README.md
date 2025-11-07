@@ -2,7 +2,7 @@
 
 **Full-Stack Developer (Backend-Oriented)** from **Egypt**  
 Passionate about building scalable systems and writing clean, efficient code.  
-Main focus on **Laravel**, **Node.js**, and **ASP.NET**, with strong experience in **SQL** and **NoSQL** databases.  
+Main focus on **Laravel**, and **ASP.NET**, with strong experience in **SQL** databases.  
 
 ---
 
@@ -12,13 +12,13 @@ Main focus on **Laravel**, **Node.js**, and **ASP.NET**, with strong experience 
 HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Redux • TailwindCSS • Bootstrap
 
 ### ⚙️ Backend
-PHP • Laravel • Node.js • Express.js • ASP.NET
+PHP • Laravel • ASP.NET
 
 ### 🗄️ Databases
-MySQL • PostgreSQL • MongoDB • SQL Server
+MySQL • PostgreSQL • SQL Server
 
 ### 🧰 Tools
-Git • GitHub • VS Code • Notion
+Git • GitHub 
 
 ---
 
@@ -29,6 +29,14 @@ Git • GitHub • VS Code • Notion
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed777ismail&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+
+---
+
+## 🔥 GitHub Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ahmed777ismail&theme=tokyo-night&hide_border=true&area=true)
+![](https://komarev.com/ghpvc/?username=ahmed777ismail&style=for-the-badge&color=blueviolet)
+
 
 ## 💬 Quote
 > “Code is like humor. When you have to explain it, it’s bad.”
