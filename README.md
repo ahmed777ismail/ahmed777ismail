@@ -10,9 +10,9 @@ My work is driven by clean architecture, automation, and building systems that a
 ### 🧭 What I Do
 
 - Design and develop backend APIs using **Laravel** and **ASP.NET**  
-- Build full-stack applications with **React**, **Next.js**, and **TailwindCSS**  
 - Work with **SQL Server**, **MySQL**, and **PostgreSQL** for efficient data modeling  
 - Implement CI/CD workflows and version control using **Git** and **GitHub**
+- Build full-stack applications with **React**, **Next.js**, and **TailwindCSS**  
 
 ---
 
@@ -28,6 +28,3 @@ My work is driven by clean architecture, automation, and building systems that a
 - **Facebook:** [facebook.com/AhmedIsmail4865](https://www.facebook.com/AhmedIsmail4865/)  
 - **WhatsApp:** [Message me](https://api.whatsapp.com/send?phone=01118962513)
 
----
-
-> “Good code is its own best documentation.”
