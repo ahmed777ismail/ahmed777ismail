@@ -1,41 +1,33 @@
-# 👋 Hey, I'm Ahmed Ismail
+# Hey, I'm Ahmed Ismail
 
-**Full-Stack Developer (Backend-Oriented)** from **Egypt**  
-Passionate about building scalable systems and writing clean, efficient code.  
-Main focus on **Laravel**, and **ASP.NET**, with strong experience in **SQL** databases.  
+I'm a **Full-Stack Developer (Backend-Oriented)** from **Egypt**.  
+I build and maintain scalable backend systems with a focus on **Laravel** and **ASP.NET**, leveraging solid database design and performance optimization techniques.
 
----
-
-## 🧠 Tech Stack
-
-### 💻 Frontend
-HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Redux • TailwindCSS • Bootstrap
-
-### ⚙️ Backend
-PHP • Laravel • ASP.NET
-
-### 🗄️ Databases
-MySQL • PostgreSQL • SQL Server
-
-### 🧰 Tools
-Git • GitHub 
+My work is driven by clean architecture, automation, and building systems that are simple to extend and maintain.
 
 ---
 
-## 🔥 GitHub Activity
+### 🧭 What I Do
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmed777ismail&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=70A5FD&currStreakLabel=70A5FD&hide_border=true)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=ahmed777ismail&style=for-the-badge&color=blueviolet)
-
-
-## 💬 Quote
-> “Code is like humor. When you have to explain it, it’s bad.”
+- Design and develop backend APIs using **Laravel** and **ASP.NET**  
+- Build full-stack applications with **React**, **Next.js**, and **TailwindCSS**  
+- Work with **SQL Server**, **MySQL**, and **PostgreSQL** for efficient data modeling  
+- Implement CI/CD workflows and version control using **Git** and **GitHub**
 
 ---
 
-## 🔗 Connect with Me
+### 📈 GitHub Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ismail-722048242)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AhmedIsmail4865/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01118962513)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmed777ismail&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 📫 Get in Touch
+
+- **LinkedIn:** [linkedin.com/in/ahmed-ismail-722048242](https://www.linkedin.com/in/ahmed-ismail-722048242)  
+- **Facebook:** [facebook.com/AhmedIsmail4865](https://www.facebook.com/AhmedIsmail4865/)  
+- **WhatsApp:** [Message me](https://api.whatsapp.com/send?phone=01118962513)
+
+---
+
+> “Good code is its own best documentation.”
