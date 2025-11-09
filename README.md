@@ -16,11 +16,6 @@ My work is driven by clean architecture, automation, and building systems that a
 
 ---
 
-### 📈 GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmed777ismail&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
 
 ### 📫 Get in Touch
 
