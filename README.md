@@ -2,7 +2,6 @@
 
 I'm a **Full-Stack Developer (Backend-Oriented)** from **Egypt**.  
 I build and maintain scalable backend systems with a focus on **Laravel** and **ASP.NET**, leveraging solid database design and performance optimization techniques.
-
 My work is driven by clean architecture, automation, and building systems that are simple to extend and maintain.
 
 ---
