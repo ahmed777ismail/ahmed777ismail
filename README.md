@@ -4,7 +4,6 @@ I'm a Backend-Focused Full-Stack Developer from Egypt.
 I build scalable backend systems with a focus on Laravel and Java Spring Boot, with strong attention to clean architecture and maintainability.
 ---
 ### 🧭 What I Do
-
 Design and develop backend APIs using Laravel and Spring Boot
 Work with MySQL, PostgreSQL, and SQL Server for efficient data modeling
 Apply clean architecture principles and improve code structure and scalability
