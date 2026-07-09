@@ -10,13 +10,11 @@ Apply clean architecture principles and improve code structure and scalability
 Build and maintain systems with features like authentication, roles & permissions, and real-time interactions
 Use Git/GitHub and CI/CD workflows in development
 Integrate backend systems with modern frontends using React and Next.js
-
 ---
 🚀 Currently Focused On
 Deepening my knowledge in Spring Boot & Microservices Architecture
 Improving system design and building scalable distributed systems
 Exploring backend performance optimization and best practices
-
 
 ### 📫 Get in Touch
 
