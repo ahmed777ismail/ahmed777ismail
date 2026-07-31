@@ -1,24 +1,75 @@
-# Hey, I'm Ahmed Ismail
+# Hey, I'm Ahmed Ismail 👋
 
-I'm a Backend-Focused Full-Stack Developer from Egypt.
-I build scalable backend systems with a focus on Laravel and Java Spring Boot, with strong attention to clean architecture and maintainability.
+I'm a Backend Engineer from Egypt, passionate about designing scalable, secure, and maintainable software.
+
+My primary expertise is building backend systems with **Laravel** and **Spring Boot**, while continuously expanding my knowledge in **ASP.NET Core**, **Microservices**, **DevOps**, and **Cloud Technologies**.
+
+I enjoy solving complex backend problems, improving system architecture, and building software that is reliable, performant, and easy to maintain.
+
 ---
-### 🧭 What I Do
-Design and develop backend APIs using Laravel and Spring Boot
-Work with MySQL, PostgreSQL, and SQL Server for efficient data modeling
-Apply clean architecture principles and improve code structure and scalability
-Build and maintain systems with features like authentication, roles & permissions, and real-time interactions
-Use Git/GitHub and CI/CD workflows in development
-Integrate backend systems with modern frontends using React and Next.js
+
+## 💻 Tech Stack
+
+### Backend
+- Laravel
+- Java Spring Boot
+- ASP.NET Core Web API
+- PHP
+- Java
+- C#
+
+### Databases
+- MySQL
+- PostgreSQL
+- SQL Server
+- Oracle
+
+### DevOps & Infrastructure
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- Linux
+
+### Frontend
+- React
+- Next.js
+- Angular
+
+### Tools
+- Git & GitHub
+- Postman
+- Swagger / OpenAPI
+- Bruno
+
 ---
-🚀 Currently Focused On
-Deepening my knowledge in Spring Boot & Microservices Architecture
-Improving system design and building scalable distributed systems
-Exploring backend performance optimization and best practices
 
-### 📫 Get in Touch
+## 🚀 Currently Learning
 
-- **LinkedIn:** [linkedin.com/in/ahmed-ismail-722048242](https://www.linkedin.com/in/ahmed-ismail-722048242)  
-- **Facebook:** [facebook.com/AhmedIsmail4865](https://www.facebook.com/AhmedIsmail4865/)  
-- **WhatsApp:** [Message me](https://api.whatsapp.com/send?phone=01118962513)
+- Microservices Architecture
+- Advanced System Design
+- Kubernetes & Container Orchestration
+- Distributed Systems
+- Performance Optimization
+- Cloud & DevOps Best Practices
 
+---
+
+## 🎯 Interests
+
+- Backend Engineering
+- Software Architecture
+- Clean Architecture
+- REST APIs
+- Authentication & Authorization
+- Scalable Systems
+- Performance Tuning
+- Design Patterns
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: <PRIVATE_URL>
+- 📘 Facebook: <PRIVATE_URL>
+- 💬 WhatsApp: <PRIVATE_URL>
