@@ -22,7 +22,6 @@ I enjoy solving complex backend problems, improving system architecture, and bui
 - MySQL
 - PostgreSQL
 - SQL Server
-- Oracle
 
 ### DevOps & Infrastructure
 - Docker
@@ -70,6 +69,6 @@ I enjoy solving complex backend problems, improving system architecture, and bui
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: <PRIVATE_URL>
-- 📘 Facebook: <PRIVATE_URL>
-- 💬 WhatsApp: <PRIVATE_URL>
+- 💼 LinkedIn: (https://www.linkedin.com/in/ahmed-ismail-722048242)
+- 📘 Facebook: (https://www.facebook.com/AhmedIsmail4865/)
+- 💬 WhatsApp: (https://api.whatsapp.com/send?phone=01118962513)
