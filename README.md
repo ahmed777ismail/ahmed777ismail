@@ -24,7 +24,6 @@ I enjoy solving complex backend problems, improving software architecture, and b
 - MySQL
 - PostgreSQL
 - SQL Server
-- Oracle
 
 ### DevOps & Infrastructure
 - Docker
