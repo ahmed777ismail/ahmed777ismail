@@ -89,4 +89,8 @@ I enjoy solving complex backend problems, improving software architecture, and b
   <a href="https://api.whatsapp.com/send?phone=201118962513" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+
+  <a href="https://ahmed777ismail.github.io/ahmed-portfolio/#contact" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
 </p>
