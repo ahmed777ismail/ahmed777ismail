@@ -7,9 +7,7 @@ I'm a Backend Engineer from Egypt passionate about designing scalable, secure, a
 My primary expertise is building backend systems with **Laravel** and **Spring Boot**, while continuously expanding my knowledge in **ASP.NET Core**, **Microservices**, **DevOps**, and **Cloud Technologies**.
 
 I enjoy solving complex backend problems, improving software architecture, and building reliable software that scales.
-
 ---
-
 ## 💻 Tech Stack
 
 ### Backend
