@@ -1,4 +1,4 @@
-# Hey, I'm Ahmed Ismail 👋
+# Hey, I'm Ahmed Ismail
 
 Backend Engineer | Laravel • Spring Boot • ASP.NET Core
 
