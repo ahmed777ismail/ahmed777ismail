@@ -33,6 +33,7 @@ I enjoy solving complex backend problems, improving software architecture, and b
 ### Frontend
 - React
 - Angular
+- Next js
 
 ### Tools
 - Git & GitHub
